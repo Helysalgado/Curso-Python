@@ -1,3 +1,23 @@
+'''NAME
+       adaptadores
+
+VERSION
+        1.0
+
+AUTHOR
+        Melissa Mayén Quiroz 
+
+DESCRIPTION
+        Elimina los adaptadores de varias secuencias
+
+CATEGORY
+       
+
+USAGE
+        
+
+ARGUMENTS
+'''
 # 1.Se abre el archivo sequence.txt
 file=open("sequence.txt")
 # 2.Se crea una lista para guardar las secuencias sin adaptadores
