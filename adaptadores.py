@@ -5,7 +5,7 @@ VERSION
         1.0
 
 AUTHOR
-        Melissa Mayén Quiroz 
+        Melissa Mayén Quiroz <mmayen@lcg.unam.mx>
 
 DESCRIPTION
         Elimina los adaptadores de varias secuencias
