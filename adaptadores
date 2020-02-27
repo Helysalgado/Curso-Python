@@ -14,3 +14,4 @@ for lines in file:
 with open("new_file.txt", "w") as newfile:
   for lines in seq_no_adapt:
    newfile.write('{}\n'.format(lines))
+
